@@ -1,0 +1,18 @@
+# Environment & Secret API Keys
+.env
+*.log
+
+# Large Datasets & Media
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.csv
+*.xlsx
+downloaded_images/
+sampled_1080_dataset/
+
+# Python cache & OS files
+__pycache__/
+*.py[cod]
+.DS_Store
